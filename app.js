@@ -96,5 +96,3 @@ document.querySelector("#deleteBtn").addEventListener("click", () => {
 
 // ---------- Initialize ----------
 renderUsers();
-/* add your code here */
-
